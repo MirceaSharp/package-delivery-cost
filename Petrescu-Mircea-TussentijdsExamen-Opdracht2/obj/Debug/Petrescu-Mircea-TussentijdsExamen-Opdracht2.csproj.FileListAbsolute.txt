@@ -1,0 +1,10 @@
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\bin\Debug\Petrescu-Mircea-TussentijdsExamen-Opdracht2.exe.config
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\bin\Debug\Petrescu-Mircea-TussentijdsExamen-Opdracht2.exe
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\bin\Debug\Petrescu-Mircea-TussentijdsExamen-Opdracht2.pdb
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\obj\Debug\Petrescu-Mircea-TussentijdsExamen-Opdracht2.csprojAssemblyReference.cache
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\obj\Debug\Petrescu_Mircea_TussentijdsExamen_Opdracht2.Form1.resources
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\obj\Debug\Petrescu_Mircea_TussentijdsExamen_Opdracht2.Properties.Resources.resources
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\obj\Debug\Petrescu-Mircea-TussentijdsExamen-Opdracht2.csproj.GenerateResource.cache
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\obj\Debug\Petrescu-Mircea-TussentijdsExamen-Opdracht2.csproj.CoreCompileInputs.cache
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\obj\Debug\Petrescu-Mircea-TussentijdsExamen-Opdracht2.exe
+C:\Users\MVP\source\repos\Petrescu-Mircea-TussentijdsExamen-Opdracht2\Petrescu-Mircea-TussentijdsExamen-Opdracht2\obj\Debug\Petrescu-Mircea-TussentijdsExamen-Opdracht2.pdb
